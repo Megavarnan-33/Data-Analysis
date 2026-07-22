@@ -1,3 +1,6 @@
+# Customer Shopping Behavior Analysis
+
+
 ## Project Overview
 
 ### The goal of this project is to simulate a end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
